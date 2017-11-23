@@ -1,0 +1,5 @@
+# ignoruj pliki wykonalne
+
+*.o
+*.out
+*.c~
